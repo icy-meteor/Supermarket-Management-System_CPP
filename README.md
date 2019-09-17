@@ -1,6 +1,11 @@
-# Supermarket Management System (Legacy C++)
 
-This project is a C++98 based project for managing supermarket operations in a simplified manner.
+# 💻 Supermarket Management System - Console Version (C++)
+![Image	](https://i.imgur.com/MTmBlcI.jpg)
+
+A console version of Supermarket Management System with Object Oriented and File Handling Concepts.
+
+## Tech Stack
+❤️ C++
 
 ## Installation
 
@@ -34,6 +39,3 @@ The following CRUD operations are permitted within the system.
 Pull requests are welcome.
 
 Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
